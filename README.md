@@ -1,6 +1,4 @@
-## WELCOME TO
-## MHM-LIVE-FTP
-## Server
+## WELCOME TO MHM-LIVE-FTP Server
 
 Here You Can Transfer Files Like PDF,TXT,PNG,JPG etc Anything You Want.
 
