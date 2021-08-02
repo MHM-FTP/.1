@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+## WELCOME TO
+## MHM-LIVE-FTP
+## Server
 
-You can use the [editor on GitHub](https://github.com/MHM-FTP/.1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here You Can Transfer Files Like PDF,TXT,PNG,JPG etc Anything You Want.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You Can Also Watch Live Tv Channels & also Watch And Download Movies Absulutely For Free.
 
-### Markdown
+**[Visit FTP Server](https://sites.google.com/view/mhm-live-ftp/home)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why This Server?
+
+In This Server You Will Get Yoyr Own Place To Transfer Files All Over The World For Free. Just You Have To Register And Wait For 24 Hours. Your Id Will Be Added To Our FTP Server And You Will Get The Lifetime Access To Read & Write Data On The Ftp Server
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +30,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MHM-FTP/.1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
